@@ -42,4 +42,4 @@ This project analyzes employee data to understand attrition trends, salary distr
 
 ## 📬 Contact
 
-(Add your LinkedIn here)
+www.linkedin.com/in/ibrahim-ahmad-75615b367
